@@ -1,4 +1,4 @@
-# Hybrid search of vectors and structured data based on Milvus Partitions
+# Hybrid search of vectors and structured data
 
 This solution implements hybrid search of vectors and structured data based on Milvus Partitions.
 
