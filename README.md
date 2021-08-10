@@ -1,3 +1,5 @@
+:exclamation::exclamation: **This repo will no longer be maintained, please visit https://github.com/milvus-io/bootcamp** :exclamation: :exclamation:
+
 # Hybrid search of vectors and structured data
 
 This solution implements hybrid search of vectors and structured data based on Milvus Partitions.
